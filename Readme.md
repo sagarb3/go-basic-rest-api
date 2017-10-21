@@ -10,7 +10,7 @@ Go Project Starter
 
 5.write code
 
-6.install addditonal dependencing if using using 
+6.install additonal dependencing if using using 
 
   -- go get github.com/gorilla/mux
 
