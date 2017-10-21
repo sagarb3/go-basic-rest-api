@@ -30,4 +30,4 @@ go build -o bin/myproject
 
 
 
-############## Thuis project is a basic restapi implementation using go **************************
+############## This project is a basic restapi implementation using go **************************
